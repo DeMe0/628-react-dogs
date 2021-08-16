@@ -6,7 +6,7 @@ import Form from "./Form";
 
 function App() {
 
-  const url = "https://dogs-api-628-ajd.herokuapp.com/dog"
+  const url = "https://dogs-api-628-ajd.herokuapp.com"
 
   const [dogs, setDogs] = useState([])
 
